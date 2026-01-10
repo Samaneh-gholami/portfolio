@@ -108,6 +108,20 @@ h2 {
     color: #666;
     margin-bottom: 1rem;
 }
+/* ===== Education Section ===== */
+
+#education {
+    margin-top: 3rem;
+}
+
+    #education .experience-card {
+        background: #F9FAFB;
+        border-left: 4px solid #5B7CFA;
+    }
+
+    #education h3 {
+        color: #1F2933;
+    }
 
 /* ===== Projects ===== */
 .project-grid {
@@ -276,4 +290,5 @@ section {
         opacity: 1;
         transform: translateY(0);
     }
+
 }
