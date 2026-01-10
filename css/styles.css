@@ -122,6 +122,19 @@ h2 {
     #education h3 {
         color: #1F2933;
     }
+/* ===== Certification Section ===== */
+
+#certifications ul {
+    padding-left: 1.2rem;
+}
+
+#certifications li {
+    margin-bottom: 0.6rem;
+}
+
+#certifications a {
+    font-weight: 600;
+}
 
 /* ===== Projects ===== */
 .project-grid {
@@ -292,3 +305,4 @@ section {
     }
 
 }
+
